@@ -8,9 +8,9 @@ I'm Jiang Nan, now a MS student at Huazhong University of Science and Technology
 - Skills: Rust / C / C++ / Linux / Shell / Cmake...
 - Email: jiangnan_979@163.com
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangnan&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 
 <!--
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jiangnan&hide_title=true&hide_border=true&layout=compact&langs_count=6&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" /> </div>
 **GotGyu/GotGyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
