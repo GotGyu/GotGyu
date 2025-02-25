@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+I'm Jiang Nan, now a MS student at Huazhong University of Science and Technology in Wuhan, China.
+
+- Shanghai University - B.S. in Mathematics and Applied Mathematics.
+- Huazhong University of Science and Technology - MS student in Cyber Science and Engineering.
+- Intrests：Rust / Operating System / Kernel / Container / Trading.
+- Skills: Rust / C / C++ / Linux / Shell / Cmake...
+- Email: jiangnan_979@163.com
+
 <!--
 **GotGyu/GotGyu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
